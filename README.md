@@ -25,6 +25,14 @@ flex and grid for layout.
 bg-blue-500, text-white,and rounded-lg for UI elements.
 Media queries via sm:, md:, and lg: prefixes.
 
+## Screenshots
+#### Homepage: Displays current weather and search bar.
+Weather Details: Shows temperature, wind speed, and direction.
+![s1](https://github.com/user-attachments/assets/a8445d04-01a4-4b94-b4e9-ccf458089a4d)
+![s2](https://github.com/user-attachments/assets/d750ec66-7c25-4174-9237-cf4508c9ad76)
+
+
+
 ## 📞 Contact
 #### For any questions or feedback, reach out at:
 Email: ms3198@fayoum.edu.eg
